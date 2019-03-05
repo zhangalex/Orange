@@ -1,7 +1,9 @@
 package com.yumong.orange;
 
 /**
- * Twitter Snowflake : A distributed ID generator.
+ * Distributed Sequence Generator.
+ *
+ * Inspired by Twitter Snowflake : A distributed ID generator.
  *
  * Detail https://www.callicoder.com/distributed-unique-id-sequence-number-generator/
  * Twitter official repo: https://github.com/twitter-archive/snowflake/tree/snowflake-2010
